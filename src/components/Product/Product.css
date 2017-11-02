@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .product {
     margin: 0;
     overflow: auto;
@@ -16,3 +17,23 @@
     height: 40%;
     width: 30%;
 }
+=======
+.product {
+    margin: 0;
+    overflow: auto;
+    font-family: 'MedievalSharp', cursive;
+}
+
+.product__price {
+    display: inline-block;
+    line-height: 34px;
+}
+
+.product__button-wrap {
+    float: right;
+}
+#img{
+    height: 40%;
+    width: 30%;
+}
+>>>>>>> cd4669b8141510027fe01c1b67ce1f368804ba21
