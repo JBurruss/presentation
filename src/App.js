@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React from 'react';
 import Home from './components/Home/Home';
 import About from './components/About/About';
@@ -64,4 +63,4 @@ const App = () => {
 }
 
 export default App;
->>>>>>> cd4669b8141510027fe01c1b67ce1f368804ba21
+
